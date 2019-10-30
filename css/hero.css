@@ -1,3 +1,17 @@
 body{
-	background-color: yellow;
+	margin: 0;
+}
+
+header{ 
+	background-color: #FFF66E; 
+	text-align: center;
+}
+
+header h1{
+	color: white;
+}
+
+header img{
+	border-radius: 150px;
+	width: 300px;
 }
